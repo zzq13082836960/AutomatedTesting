@@ -1,0 +1,5 @@
+#surefire
+#Mon Jun 03 10:08:17 CST 2019
+user.dir=E\:\\WorkPlace\\AutomatedTesting\\Chapter12
+localRepository=D\:\\my_maven_local_repository
+basedir=E\:\\WorkPlace\\AutomatedTesting\\Chapter12
