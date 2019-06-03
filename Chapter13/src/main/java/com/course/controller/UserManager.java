@@ -19,7 +19,7 @@ import java.util.Objects;
 
 @Slf4j
 @RestController
-@Api(value = "v1",tags = {"用户管理系统"})
+@Api(value = "v1",tags = {"User Manager System"})
 @RequestMapping("v1")
 public class UserManager {
 
